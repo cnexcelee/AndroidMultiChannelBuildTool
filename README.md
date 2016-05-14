@@ -1,6 +1,13 @@
 AndroidMultiChannelBuildTool
 ============================
 
+由于公司需要的渠道信息包含渠道id和渠道name
+在AndroidMultiChannelBuildTool基础上改成返回渠道id和渠道名称
+--info文件夹的渠道信息改成使用json格式
+
+add by excelee
+update ---2016-5-14
+
 安卓多渠道打包工具。   
 实现思路讲解： [Android批量打包提速 - GavinCT](http://www.cnblogs.com/ct2011/p/4152323.html)  
 
